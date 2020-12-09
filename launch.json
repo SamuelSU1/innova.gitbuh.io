@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "https://www.youtube.com/watch?v=XWK7Q_wCuPk&feature=youtu.be",
+            "request": "launch",
+            "url": "https://www.youtube.com/watch?v=XWK7Q_wCuPk&feature=youtu.be"
+        }
+    ]
+}
